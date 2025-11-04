@@ -1,0 +1,1 @@
+Repository showcasing my scientific publications and research contributions across biotechnology, computational biology, and artificial intelligence. Includes papers, abstracts, and complementary analyses connecting experimental and computational approaches.
